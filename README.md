@@ -19,6 +19,8 @@ HTML5
 CSS3
 React Icons
 Git & GitHub
+<img width="1886" height="967" alt="image" src="https://github.com/user-attachments/assets/45ee015c-b88a-421b-a53a-05f55f0eee10" />
+
 
 📂 Project Structure
 portfolio/
